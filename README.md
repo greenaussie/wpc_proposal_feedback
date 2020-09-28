@@ -10,6 +10,8 @@ This is supported by my request for reclassification of my role and an update to
 
 I have addressed how my current role and responsibilies meet each the accountabilities, skills and experience, of the Lead Developer role, below.
 
+> In a seperate query, I have requested the position desription of Developer Role, be provided to me (28 September 2020). 29 Sepember 2020, I was advised in correspondence with Christana Basilas, UNSW IT HR Partner, this is not currently available.
+
 ## Accountabilities
 
 1. Analyse and document requirements of users;
@@ -78,11 +80,16 @@ Design/Implement/configure solutions on the multiple Solutions platforms.
 1. Knowledge of health and safety responsibilities and commitment to attending relevant health and safety training.
 
    - Commitment demonstrated by volunteering for the role of First Aider at UNSW from 2013 to present.
-   - Undertaking
+   - Undertaking training
 
 1. An understanding of and commitment to UNSW’s aims, objectives and values in action, together with relevant policies and guidelines.
 
-   - I am a keen supporter and particant in UNSW's diversity and equality programs.
+   - Embracing Diversity - I am a keen supporter and particant in UNSW's diversity and equality programs, for example, taking part in UNSW Human Rainbow celebrating Mardi Gras 2020.
+   - Demonstrates Excellence - proven ability to delivery high quality outcomes as an individual and as a team member
+   - Builds collaboration - sharing skills accross UNSW IT and with our customers.
+   - Displays respect - I work in a professional manner, and acknowlege and encourage the same with others.
+
+## Supporting and reference documentation
 
 1. Workplace Change Paper 2020 - UNSW IT - Impact on staff and proposed structures
 1. POSITION DESCRIPTION - Senior Developer
