@@ -6,16 +6,16 @@ __I propose the WPC document be ammended to show the role against my name is for
 
 I have been informed by HR the WPC proposal is formed from existing position description, which has not bee revised since 2013, and reference to the EA (ref. email from Christina Batsila, IT HR partner). The PD is not reflective of my current roles and responsibilies, which have significantly evolved.
 
-This is supported by my request for reclassification of my role and an update to my position description of Q1 2020, which was handled by Christia Batsila. My management at that time offered support for reclassification, however the process was stopped immediately prior to the reclassification board meeting of week 3 March 2020.
+This is supported by my request for reclassification of my role and an update to my position description of Q1 2020, which was handled by Christia Batsila. My management at that time offered support for reclassification, however the process was stopped immediately prior to the reclassification board meeting of week 3 March 2020. I have attached documentation signed by my manger for the reclassification.
 
-I have addressed how my current role and responsibilies meet each the accountabilities, skills and experience, of the Lead Developer role, below.
+I have addressed how my current role already has accountabilities, and responsibilies meet each the accountabilities, skills and experience, of the Lead Developer role, below.
 
 > In a seperate query, I have requested the position desription of Developer Role, be provided to me (28 September 2020). 29 Sepember 2020, I was advised in correspondence with Christana Basilas, UNSW IT HR Partner, this is not currently available.
 
 ## Accountabilities
 
 1. Analyse and document requirements of users;
-Design/Implement/configure solutions on the multiple Solutions platforms.
+1. Design/Implement/configure solutions on the multiple Solutions platforms.
 1. Deliver solutions using an Agile/Scrum/Test Driven Development approach.
 1. Prepare unit/system/acceptance test cases to validate delivered solutions.
 1. Test solutions implemented on the platform, and work with Testing and Analysis colleagues in agile delivery.
@@ -48,7 +48,7 @@ Design/Implement/configure solutions on the multiple Solutions platforms.
 1. Experience with preparation and execution of test cases.
 
    - Working with UNSW testers for pre-production end-to-end service testing
-   - Ensuring stories are defined in terms which are specific and thus acceptance tests can easily be defined
+   - Ensuring stories are defined in terms which are specific and thus acceptance critera and tests can easily be defined
    - Use of load testing to ensure service capacity meets expection, while maintining efficiency (approprize resource sizing)
    - Ensuring unit tests are part of automated build processes
 
