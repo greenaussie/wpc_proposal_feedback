@@ -1,16 +1,12 @@
-# UNSW IT Workplace Change feedback - Richard Green - Position Description
+# UNSW IT Workplace Change feedback - Richard Green - Mapping
 
-The document proposes a new position for my role and states my responsibilites are unchanged. My current responsibilites, since prior to 2017 Workplace change where Faculty IT staff were moved to UNSW IT, are aligned with the role __Senior Developer__, not __Developer__. 
-
-__I propose the WPC document be ammended to show the role against my name is for Senior Developer__.
+The document proposes a new position for my role and states my responsibilites are unchanged. My current responsibilites, since prior to 2017 Workplace change where Faculty IT staff were moved to UNSW IT, are aligned with the role __Senior Developer__, so I propose this is a mapping opportunity for my current role to be mapped to the new position description.
 
 I have been informed by HR the WPC proposal is formed from existing position description, which has not bee revised since 2013, and reference to the EA (ref. email from Christina Batsila, IT HR partner). The PD is not reflective of my current roles and responsibilies, which have significantly evolved.
 
-This is supported by my request for reclassification of my role and an update to my position description of Q1 2020, which was handled by Christia Batsila. My management at that time offered support for reclassification, however the process was stopped immediately prior to the reclassification board meeting of week 3 March 2020. I have attached documentation signed by my manger for the reclassification.
+This is supported by my request for reclassification of my role and an update to my position description of Q1 2020, which was handled by Christia Batsila. My management at that time offered support for reclassification, however the process was stopped immediately prior to the reclassification board meeting of week 3 March 2020. I have attached HR-24 form which was prepared and signed by my manger, which presents a business case for the reclassification.
 
 I have addressed how my current role already has accountabilities, and responsibilies meet each the accountabilities, skills and experience, of the Lead Developer role, below.
-
-> In a seperate query, I have requested the position desription of Developer Role, be provided to me (28 September 2020). 29 Sepember 2020, I was advised in correspondence with Christana Basilas, UNSW IT HR Partner, this is not currently available.
 
 ## Accountabilities
 
@@ -80,7 +76,7 @@ I have addressed how my current role already has accountabilities, and responsib
 1. Knowledge of health and safety responsibilities and commitment to attending relevant health and safety training.
 
    - Commitment demonstrated by volunteering for the role of First Aider at UNSW from 2013 to present.
-   - Undertaking training
+   - Undertaking training as required
 
 1. An understanding of and commitment to UNSW’s aims, objectives and values in action, together with relevant policies and guidelines.
 
@@ -88,11 +84,13 @@ I have addressed how my current role already has accountabilities, and responsib
    - Demonstrates Excellence - proven ability to delivery high quality outcomes as an individual and as a team member
    - Builds collaboration - sharing skills accross UNSW IT and with our customers.
    - Displays respect - I work in a professional manner, and acknowlege and encourage the same with others.
+   - Undertaking training as required.
 
 ## Supporting and reference documentation
 
 1. Workplace Change Paper 2020 - UNSW IT - Impact on staff and proposed structures
 1. POSITION DESCRIPTION - Senior Developer
+1. HR-24 form 
 1. POSITION DESCRIPTION - Developer - NOT AVAILABLE
 1. 2013 Position Description - GREEN R - System Administrator (UNIX) - UNSW Medicine - Medicine Computing Support Unit.pdf
 1. Email from IT HR partner
