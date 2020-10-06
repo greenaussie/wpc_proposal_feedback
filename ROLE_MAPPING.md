@@ -1,124 +1,46 @@
-# UNSW IT Workplace Change feedback - Richard Green - Mapping
+# UNSW IT Workplace Change feedback - Richard Green - proposed position of `Developer` is inaccurate
 
-The document proposes a new position title for my role, `Developer` and states my responsibilites are unchanged.
+The document proposes a new position title for my role, `Developer` and states my responsibilities are unchanged. Upon inquiry, HR have informed me my responsibilities were assessed according to an outdated position description of 2013, and the UNSW Staff EA. Neither the 2013 document or its proposed replacement correctly describes my current responsibilities, accountability, or takes in to account my actual experience.
 
-Upon my queries, HR has clarified that the new position description (PD) associated with the title will be effective (email, Christina Batsilas, 1/10/2020, subject 'Developer PD - Level 7'), and they have provided the PD (email, Christina Batsilas, 1/10/2020, subject 'Missing PD for 'Developer' in STARs / Faculty Solutions').
+HR has provided the proposed new position description (PD) for `Developer` (email, Christina Batsilas, 1/10/2020, subject 'Missing PD for 'Developer' in STARs / Faculty Solutions', this was not originally present at the time the WPC document was released).
 
-My unchanged accountabilites and responsibilies are aligned with the PD of the `Senior Developer` role, not the `Developer` role, so that should be the Title and associated PD which are set by the proposed structure for STARS Faculty Solutions.
+My current activities are aligned with the PD of the `Senior Developer` role, not the `Developer` role, so that should be the Title and associated PD which are set by the proposed structure for STARS Faculty Solutions, and an existing conversation with my management line and HR has been ongoing, prior to this WPC proposal. Following is a summary of evidence which demonstrates my current role is aligned with the `Senior Developer` role:
 
-Following is a summary of evidence which demostrates my current role is aligned with the `Senior Developer` role:
+- Meeting with Christina Batsilas, Victoria McGloin, discussing support for position reclassification to reflect current role, 28 February 2020
+- HR24 form signed by my management 28 February 2020 - HR have this already
+- Meeting with Christina Batsilas, James Rogers, 'PD Discussion', Thursday 19 March 2020, where my role and activities were acknowledged as Level 8
 
-- Meeting with Christina Batsilas, Victoria McGloin, discussing support for position reclassification to reflect current rolep, 9am 28 February 2020
-- HR24 form signed by my management 28 February 2020
-- Meeting with Christina Batsilas, James Rogers, 'PD Discussion', Thursday 19 March 2020, where my role was acknowleged.
+Additionally I can demonstrate I perform the role described by the `Senior Developer` position. The table below shows the accountability and responsibilities for both `Developer` and `Senior Developer`, with the differences between the levels __emphasised in bold__.
 
-Additionally I can demonstrate I perform the role desribed by the `Senior Developer` position. The table below shows the accountablities and responsibilities for both `Developer` and `Senior Developer`, with the differences between the levels __emphasised in bold__.
-
-## Accountabilities
+## Accountability
 
 | | Developer | Senior Developer | Evidence current role meets the higher criteria |
 |-|-----------|------------------|-------------------------------------------------|
-| 1 | Analyse and document requirements of users | Analyse and document requirements of users | |
-| 2 | Design/Implement/configure IT solutions on the multiple Solutions platforms including applications and technical infrastructure. | Design/Implement/configure solutions on the multiple Solutions platforms. | |
-| 3 | Deliver solutions using an Agile/Scrum/Test Driven Development approach with guidance from Senior Developers. | Deliver solutions using an Agile/Scrum/Test Driven Development approach. | |
-| 4 | Prepare unit/system/acceptance test cases to validate delivered solutions. | Prepare unit/system/acceptance test cases to validate delivered solutions. | |
-| 5 | Test solutions implemented on the platform, and work with Testing and Analysis colleagues in agile delivery. | Test solutions implemented on the platform, and work with Testing and Analysis colleagues in agile delivery.| |
-| 6 | | Take responsibility for the end-to-end delivery of solutions. | |
-| 7 | Assist in training end users on the use of the solutions provided. | Train end users on the use of the solutions provided. | |
-| 8 | Engage and collaborate with the relevant technical staff members in UNSW IT to manage
-environments, deployments and tenancy administration activities. | Engage with the relevant technical people in UNSW IT to manage environments, deployments and tenancy administration activities. | |
-| 9 | | Mentor and support development activity of Solution Developers in keeping with this senior role within the team. | |
-| 10 | Provide effective customer service through responding to customer requests in a timely and efficient manner, and understanding and delivering on customer needs. | | |
-| 11 | Align with and actively demonstrate the UNSW Values in Action: Our Behaviours and the UNSW Code of Conduct. | Cooperate with all health and safety policies and procedures of the university and take all reasonable care to ensure that your actions or omissions do not impact on the health and safety of yourself or others.| |
-| 12 | Align with and actively demonstrate the UNSW Values in Action: Our Behaviours and the UNSW Code of Conduct. | Align with and actively demonstrate the UNSW Values in Action: Our Behaviours and the UNSW Code of Conduct.| |
+| 1 | Analyse and document requirements of users | Analyse and document requirements of users | Example: meetings with Sydney Orthopaedics Research Lab staff to understand the requirements for data acquisition and storage related to their DI-COM equipment |
+| 2 | Design/Implement/configure IT solutions on the multiple Solutions platforms __including applications and technical infrastructure__. | Design/Implement/configure solutions on the multiple Solutions platforms. | Example: Physical, Virtual and Cloud infrastructure, LAMP, RAILS, Tomcat platforms, RAILS, Drupal, Mediawiki application deployments |
+| 3 | Deliver solutions using an Agile/Scrum/Test Driven Development approach __with guidance from Senior Developers__. | Deliver solutions using an Agile/Scrum/Test Driven Development approach. | Examples: multiple projects developed and/or tracked using agile methodologies and related tool sets and technologies. |
+| 4 | Prepare unit/system/acceptance test cases to validate delivered solutions. | Prepare unit/system/acceptance test cases to validate delivered solutions. | Example - devising and training UNSW tester for smoke testing, creating user stories with defined acceptance testes associated |
+| 5 | Test solutions implemented on the platform, and work with Testing and Analysis colleagues in agile delivery. | Test solutions implemented on the platform, and work with Testing and Analysis colleagues in agile delivery.| Example, ensuring development stories are expressed in a way which facilities functional testing, execution of unit tests during build processes |
+| 6 | | __Take responsibility for the end-to-end delivery of solutions.__ | Examples include CBDRH Covid 19 research service, SORL DiCOM connector, DEAP service for UNSW Medicine, STARS container cluster POC, CBDHR ERICA |
+| 7 | __Assist in training end users__ on the use of the solutions provided. | __Train__ end users on the use of the solutions provided. | Example: I designed and provide on-boarding sessions for users of infrastructure I operate. E.g. ERICA, I have worked with other team members to deliver training for Sydney Orthopaedics Lab |
+| 8 | __Engage and collaborate__ with the relevant technical staff members in UNSW IT to manage environments, deployments and tenancy administration activities. | __Engage__ with the relevant technical people in UNSW IT to manage environments, deployments and tenancy administration activities. | Working with Networks team for F5 solutions, working with UNSW IT Security, working with VMWare teams and Linux teams from UNSW IT Production Services, Working with Service Management Office on Service Management Packages, Post Incident Response|
+| 9 | | __Mentor and support development activity of Solution Developers in keeping with this senior role within the team.__ | Examples: presentations to our team for STARS container cluster POC, mentoring team members and beyond within UNSW IT  |
+| 10 | __Provide effective customer service through responding to customer requests in a timely and efficient manner, and understanding and delivering on customer needs.__ | | Examples - timely direct response for all services for which I have responsibility. Ensuring queries to which I cannot respond are redirected appropriately. Follow up requests for feedback from customers and associates to ensure my response was sufficient. |
+| 11 | Cooperate with all health and safety policies and procedures of the university and take all reasonable care to ensure that your actions or omissions do not impact on the health and safety of yourself or others. | Cooperate with all health and safety policies and procedures of the university and take all reasonable care to ensure that your actions or omissions do not impact on the health and safety of yourself or others.| I undertake required training for OHS matters and have a defined OHS related role of First Aider within UNSW |
+| 12 | Align with and actively demonstrate the UNSW Values in Action: Our Behaviours and the UNSW Code of Conduct. | Align with and actively demonstrate the UNSW Values in Action: Our Behaviours and the UNSW Code of Conduct.|  |
 
 ## Skills and Experience
 
 | | Developer | Senior Developer | Evidence current role meets the higher criteria |
 |-|-----------|------------------|-------------------------------------------------|
-| 1 | Relative experience implementing solutions using various platform solutions. | Minimum 3 years experience implementing solutions using various platform solutions. | |
-| 2 | Experience working with Agile delivery methodologies | Experience working with Agile delivery methodologies | |
-| 3 | Experience using a delivery management tool (e.g. JIRA or MS Team Foundation Server). | Experience using a delivery management tool (e.g. JIRA or MS Team Foundation Server). | |
-| 4 | Experience with preparation and execution of test cases.| Experience with preparation and execution of test cases. | |
-| 5 | Good interpersonal skills, establishing effective relationships with fellow IT colleagues, the business and other stakeholders.| Good interpersonal skills, establishing effective relationships with fellow IT colleagues, the business and other stakeholders. | |
-| 6 | Effective organisational and coordination skills, as well as customer service and dispute resolution skills. | Effective people leadership, organisational, coordination, motivational, negotiation and dispute resolution skill. | |
-| 7 | Ability to apply analytical skill and conceptual thinking to the analysis, design and implementation of solutions. | Ability to apply analytical skill and conceptual thinking to the analysis, design and implementation of solutions. | |
-| 8 | Experience working in a formal environment interacting with stakeholders at all levels of an organisation. | Experience working in a formal environment interacting with stakeholders at all levels of an organisation. | |
-| 9 | A professional attitude to the delivery of high-quality customer outcomes | A professional attitude to the delivery of high-quality customer outcomes. | |
-| 10 | Knowledge of health and safety responsibilities and commitment to attending relevant health and safety training| Knowledge of health and safety responsibilities and commitment to attending relevant health and safety training. | |
-| 11 | An understanding of and commitment to UNSW’s aims, objectives and values in action, together with relevant policies and guidelines. | An understanding of and commitment to UNSW’s aims, objectives and values in action, together with relevant policies and guidelines. | |
-
-## Skills and Experience
-
-1. Minimum 3 years experience implementing solutions using various platform solutions.
-
-   - at UNSW, 7 years continous improvement for on-premise/gov.dc high availability hosting cluster serving ~100 informational and educational websites with a diverse range of technologies.
-   - at UNSW, 5 years of AWS experience with multiple projects ranging from complex major infrastructure, web accelleration solutions, integrations, and data pipelines. 
-   - at UNSW, 5 years of support of complex on premise HPC projects including ROCKS cluster
-
-1. Experience working with Agile delivery methodologies
-
-   - Working as a developer and UNSW tech lead with external vendor teams on major project (ERICA).
-   - Working within UNSW team tracking projects and team member activity.
-   - Choosing the right agile methodology for a project - e.g. SORL DiCOM connectory project did not have dedicated time allocation and had two developers so a simpler Kanban project tracking was chosed over SCRUM, which requires greater team discipline with regards to timeboxing.
-
-1. Experience using a delivery management tool (e.g. JIRA or MS Team Foundation Server).
-
-   - Day to day project tracking using JIRA, Aure Devops. Able to customise JIRA to meet specfic project requirements. Day to day operations and maintenance of JIRA server.
-
-1. Experience with preparation and execution of test cases.
-
-   - Working with UNSW testers for pre-production end-to-end service testing
-   - Ensuring stories are defined in terms which are specific and thus acceptance critera and tests can easily be defined
-   - Use of load testing to ensure service capacity meets expection, while maintining efficiency (approprize resource sizing)
-   - Ensuring unit tests are part of automated build processes
-
-1. Good interpersonal skills, establishing effective relationships with fellow IT colleagues, the business and other stakeholders.
-
-   - Demonstrated skills forming effective relationships with other members of the Faculty Devops team, conciously taking time to listen and learn from others.
-   - Demostrated skills working with vendors, external developers, product owners, and other parts of UNSW IT to deliver projects. e.g. Centre for Big Data Research in Health, DiUS, Australian Institute of Health and Welfare.
-   - Mentoring team members
-   - Enthusiastic participation and knowlege sharing, for instance, at the weekly 'DevOps Practice Show and Tell' meeting.
-
-1. Effective people leadership, organisational, coordination, motivational, negotiation and dispute resolution skill.
-
-   - Technical leadership on cloud project
-   - Coordination of development effort with partner organisation AIHW
-
-1. Ability to apply analytical skill and conceptual thinking to the analysis, design and implementation of solutions.
-
-   - Designing and demonstrating scalable flexible hosting solutions such as the Faculty Elastic Container Cluster, which provides a foundation for solving a class of hosting issues.
-
-1. Experience working in a formal environment interacting with stakeholders at all levels of an organisation.
-
-   - Examples include participation on interview panels
-
-1. A professional attitude to the delivery of high-quality customer outcomes.
-
-   - Forseeing problems a customer might encounter, and facilitating a path towards solution. Recently, CBDRH ANZARD research project, noticing vendor was not fulfilling expected level of service, and actively working with customer and vendor towards an agreed and sustainable solution.
-   - Following up with a customer to request feedback
-
-1. Knowledge of health and safety responsibilities and commitment to attending relevant health and safety training.
-
-   - Commitment demonstrated by volunteering for the role of First Aider at UNSW from 2013 to present.
-   - Undertaking training as required
-
-1. An understanding of and commitment to UNSW’s aims, objectives and values in action, together with relevant policies and guidelines.
-
-   - Embracing Diversity - I am a keen supporter and particant in UNSW's diversity and equality programs, for example, taking part in UNSW Human Rainbow celebrating Mardi Gras 2020.
-   - Demonstrates Excellence - proven ability to delivery high quality outcomes as an individual and as a team member
-   - Builds collaboration - sharing skills accross UNSW IT and with our customers.
-   - Displays respect - I work in a professional manner, and acknowlege and encourage the same with others.
-   - Undertaking training as required.
-
-## Supporting and reference documentation
-
-1. Workplace Change Paper 2020 - UNSW IT - Impact on staff and proposed structures
-1. POSITION DESCRIPTION - Senior Developer
-1. HR-24 form 
-1. POSITION DESCRIPTION - Developer - NOT AVAILABLE
-1. 2013 Position Description - GREEN R - System Administrator (UNIX) - UNSW Medicine - Medicine Computing Support Unit.pdf
-1. Email from IT HR partner
-
-The links in the document are correct at the time of writing, requiring UNSW zID for access.
-
+| 1 | __Relative experience__ implementing solutions using various platform solutions. | __Minimum 3 years__ experience implementing solutions using various platform solutions. | 25+ years experience of Linux, Windows, Databases, Web. 12 years experience AWS, 5 years complex cloud infrastructure |
+| 2 | Experience working with Agile delivery methodologies | Experience working with Agile delivery methodologies | I have used JIRA since 2013, and have worked with Agile delivery methodologies (DSDM, SCRUM, Kanban) since 2016 |
+| 3 | Experience using a delivery management tool (e.g. JIRA or MS Team Foundation Server). | Experience using a delivery management tool (e.g. JIRA or MS Team Foundation Server). | I have used JIRA, operated JIRA projects and supported JIRA since 2013 |
+| 4 | Experience with preparation and execution of test cases.| Experience with preparation and execution of test cases. | I have worked with UNSW Testers for end-to-end product testing, and ensured the presence of unit tested, and built pipelines using tests, since 2016 |
+| 5 | Good interpersonal skills, establishing effective relationships with fellow IT colleagues, the business and other stakeholders.| Good interpersonal skills, establishing effective relationships with fellow IT colleagues, the business and other stakeholders. | I have 25+ years of experience with communications with internal and external vendors, service providers and customers, from my role with UNSW, with previous employers, and in a voluntary capacity with NSW State Emergency Service (SES) |
+| 6 | Effective organisational and coordination skills, as well as customer service and dispute resolution skills. | Effective __people leadership__, organisational, coordination, motivational, negotiation and dispute resolution skill. | I have worked as a tech lead on UNSW projects with internal and external teams. additionally I hold nationally recognised vocational education and training (VET) qualifications as a Skills Trainer (TAEDEL301A, BSBCMM401A) and Team Leader (PUAOPE004B), and have held role of Team Leader for NSW State Emergency Service.  I actively share knowledge with team members and seek feedback. I enthusiastically participate in UNSW IT DevOps practice sessions promoting collaboration. I have participated in information sessions with UNSW Research Technologies 'Hacky Hour' sessions. |
+| 7 | Ability to apply analytical skill and conceptual thinking to the analysis, design and implementation of solutions. | Ability to apply analytical skill and conceptual thinking to the analysis, design and implementation of solutions. | I have designed an built and documented end-to-end solutions, both working both in teams, and individually. e.g. ERICA, SORL DiCOM Connector, POC Cluster hosting solution for STARS Faculty Solutions |
+| 8 | Experience working in a formal environment interacting with stakeholders at all levels of an organisation. | Experience working in a formal environment interacting with stakeholders at all levels of an organisation. | At UNSW I have worked with customers (CBDRH), our vendors (DiUS, Intersect, IONIZE), and external organisations, including federal government (AIHW), and state government (NSW Data Analytics Centre, eHealth NSW, CHEReL) |
+| 9 | A professional attitude to the delivery of high-quality customer outcomes | A professional attitude to the delivery of high-quality customer outcomes. | Foreseeing problems a customer might encounter, and facilitating a path towards solution. e.g. recently, CBDRH ANZARD research project, noticing vendor was not fulfilling expected level of service, and actively working with customer and vendor towards an agreed and sustainable solution. Following up with a customer to request feedback and ensure customer expectations and requirements are delivered. |
+| 10 | Knowledge of health and safety responsibilities and commitment to attending relevant health and safety training| Knowledge of health and safety responsibilities and commitment to attending relevant health and safety training. |  At UNSW I have demonstrated commitment by volunteering for the role of First Aider at UNSW from 2013 to present and undertaking training as required. Additionally I hold VET qualification PUA21309 in Public Safety |
+| 11 | An understanding of and commitment to UNSW’s aims, objectives and values in action, together with relevant policies and guidelines. | An understanding of and commitment to UNSW’s aims, objectives and values in action, together with relevant policies and guidelines. | Addressing UNSW values, Embracing Diversity, I am a keen supporter and participant in UNSW's diversity and equality programs, for example, taking part in UNSW Human Rainbow celebrating Mardi Gras 2020; Demonstrates Excellence - proven ability to delivery high quality outcomes as an individual and as a team member; Builds collaboration - sharing skills across UNSW IT and with our customers, for example actively sharing knowledge across UNSW IT with Friday DevOps Practice workshops; Displays respect - I work in a professional manner, and acknowledge and encourage the same with others. I undertaking training as required, and have a good knowledge of UNSW policy as it relates to my job. |
