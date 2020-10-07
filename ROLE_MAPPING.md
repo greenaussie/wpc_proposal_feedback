@@ -4,7 +4,7 @@ The document proposes a new position title for my role, `Developer` and states m
 
 HR has provided the proposed new position description (PD) for `Developer` (email, Christina Batsilas, 1/10/2020, subject 'Missing PD for 'Developer' in STARs / Faculty Solutions', this was not originally present at the time the WPC document was released).
 
-My current activities are aligned with the PD of the `Senior Developer` role, not the `Developer` role, so that should be the Title and associated PD which are set by the proposed structure for STARS Faculty Solutions, and an existing conversation with my management line and HR has been ongoing, prior to this WPC proposal. Following is a summary of evidence which demonstrates my current role is aligned with the `Senior Developer` role:
+My current activities are aligned with the PD of the `Senior Developer` role, not the `Developer` (L7) role, so that should be the Title and associated PD which are set by the proposed structure for STARS Faculty Solutions, and an existing conversation with my management line and HR has been ongoing, prior to this WPC proposal. Following is a summary of evidence which demonstrates my current role is aligned with the `Senior Developer` role:
 
 - Meeting with Christina Batsilas, Victoria McGloin, discussing support for position reclassification to reflect current role, 28 February 2020
 - HR24 form signed by my management 28 February 2020 - HR have this already and I have attached a copy here with this feedback (to view signed Adobe Acrobat signatures, use a genuine copy of Adobe Acrobat).
