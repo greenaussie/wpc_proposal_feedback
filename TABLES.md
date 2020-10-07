@@ -1,5 +1,7 @@
 # Tables comparing developer levels
 
+Tables comparing Developer roles L6, L7, L8. The order of the items has been normalised for the comparison. __Bold__ highlights differences.
+
 ## Table 1 Accountability
 
 
@@ -25,8 +27,6 @@
 
 ## Table 2 Skills and Experience
 
-Table comparing Developer roles L6, L7, L8. The order of the items has been normalised for the comparison. __Bold__ highlights differences.
-
 
 | | Developer L6 | Developer L7 | Senior Developer L8 |
 |-|--------------|--------------|------------------|
@@ -45,6 +45,6 @@ Table comparing Developer roles L6, L7, L8. The order of the items has been norm
 | 13 | Knowledge of health and safety responsibilities and commitment to attending relevant health and safety training.| Knowledge of health and safety responsibilities and commitment to attending relevant health and safety training| Knowledge of health and safety responsibilities and commitment to attending relevant health and safety training. |
 | 13 | An understanding of and commitment to UNSW’s aims, objectives and values in action, together with relevant policies and guidelines. | An understanding of and commitment to UNSW’s aims, objectives and values in action, together with relevant policies and guidelines. | An understanding of and commitment to UNSW’s aims, objectives and values in action, together with relevant policies and guidelines. |
 
-- Line 1 - the experience require is not a progression.
+- Line 1 - the experience required is not a progression, and I think you meant __Relevant__...
 - Line 4 - mininal differences, poor distiction
 - Line 5 - terms such as advanced, good, are subjective, not objective, and thus may not be applied consistently
