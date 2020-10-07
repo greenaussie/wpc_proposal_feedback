@@ -28,7 +28,7 @@
 Table comparing Developer roles L6, L7, L8. The order of the items has been normalised for the comparison. __Bold__ highlights differences.
 
 
-| | Developer L6 | Developer L7 | Senior Developer |
+| | Developer L6 | Developer L7 | Senior Developer L8 |
 |-|--------------|--------------|------------------|
 | 1 | At least 3 years’ relevant experience implementing solutions using various IT solutions platforms| __Relative experience__ implementing solutions using various platform solutions. | __Minimum 3 years__ experience implementing solutions using various platform solutions. |
 | 2 | | Experience working with Agile delivery methodologies | Experience working with Agile delivery methodologies |
