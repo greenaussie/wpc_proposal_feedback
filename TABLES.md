@@ -1,32 +1,27 @@
-# Feedback WPC-20-IT - Title changes
-
-Proposed position title proposed for my role, to `[Senior] Developer`, does not adequately describe the nature of activities, skills, experience, and responsibilities of some members of my team, within STARS Faculty Solutions. Suggested suitable job titles include `[Senior] Automation Engineer`, `[Senior] Site Reliability Engineer` or `[Senior] DevOps Engineer`.
-
-1. Titles should be accurate, informative and descriptive, facilitating effective communications. In my case, the proposed title of `Developer`, is being used in a way which is not consistent with the broader tech sector.
-1. Conversely, an incorrect job title causes confusion and misrepresents its holder, and it may also hinder recruitment. 
-1. Section 14H of WPC-20-IT.pdf (16 Sept 2020) asserts a desire to create consistency throughout UNSW IT, however conversations with management have informed us the change is for the purpose of reducing administrative effort. This should have been stated.
-1. The WPC change document is not consistent in its application of the principle it proposes. e.g., the proposed structure for Customer Service Delivery, Production Services, many job titles are specific (page 40 WPC-20-Impact-DFO-IT.pdf).
-1. There are no references to infrastrucure design, build, operation which form, which form significant workload components for some in our team.
-1. Insufficient differences exist between different Developer levels for them to be meaninful, Some accountabity and experience requirements are not progressions indicative of a higer level. See table below for a line-by-line comparison of the Accountability and Experience sections.
+# Tables comparing developer levels
 
 ## Table 1 Accountability
 
 
 | | Developer Level 6 | Developer Level 7 | Senior Developer |
 |-|-------------------|-------------------|------------------|
-| 1 | nalyse, coordinate and document requirements of users __from support requests raised and escalate complex technical requests to Team Leader or Lead Developer as required__.| Analyse and document requirements of users | Analyse and document requirements of users |
-| 2 | esign/Implement  and  configure  IT  solutions  on  __relevant__  Solution  platforms  including applications and technical infrastructure. | Design/Implement/configure IT solutions on the multiple Solutions platforms __including applications and technical infrastructure__. | Design/Implement/configure solutions on the __multiple__ Solutions platforms. |
+| 1 | Analyse, coordinate and document requirements of users __from support requests raised and escalate complex technical requests to Team Leader or Lead Developer as required__.| Analyse and document requirements of users | Analyse and document requirements of users |
+| 2 | Design/Implement and  configure  IT  solutions  on  __relevant__  Solution  platforms  including applications and technical infrastructure. | Design/Implement/configure IT solutions on the multiple Solutions platforms __including applications and technical infrastructure__. | Design/Implement/configure solutions on the __multiple__ Solutions platforms. |
 | 3 | __Support the review and delivery__ of solutions using an Agile/Scrum/Test Driven Development approach __with guidance from Team Leader or Lead Developer as required__ | Deliver solutions using an Agile/Scrum/Test Driven Development approach __with guidance from Senior Developers__. | Deliver solutions using an Agile/Scrum/Test Driven Development approach. |
 | 4 | __Perform and maintain__ unit/system/acceptance test cases to validate delivered solutions. | __Prepare__ unit/system/acceptance test cases to validate delivered solutions. | Prepare unit/system/acceptance test cases to validate delivered solutions. |
 | 5 | __Coordinate and__ test solutions implemented on the platform, and work with Testing and Analysis colleagues in agile delivery. | Test solutions implemented on the platform, and work with Testing and Analysis colleagues in agile delivery. | Test solutions implemented on the platform, and work with Testing and Analysis colleagues in agile delivery.|
 | 6 | | | __Take responsibility for the end-to-end delivery of solutions.__ |
 | 7 | | __Assist in training end users__ on the use of the solutions provided. | __Train__ end users on the use of the solutions provided. |
-| 8 | Engage  and  collaborate  with  the  relevant  technical  staff  members  in  UNSW  IT  to  support environments, deployments and tenancy administration activities. | __Engage and collaborate__ with the relevant technical staff members in UNSW IT to manage environments, deployments and tenancy administration activities. | __Engage__ with the relevant technical people in UNSW IT to manage environments, deployments and tenancy administration activities. |
+| 8 | Engage  and  collaborate  with  the  relevant  technical  staff  members  in  UNSW  IT  to  support environments, deployments and tenancy administration activities. | Engage and collaborate with the relevant technical staff members in UNSW IT to manage environments, deployments and tenancy administration activities. | Engage with the relevant technical people in UNSW IT to manage environments, deployments and tenancy administration activities. |
 | 9 | Escalate complex development issues to the Team Leader or Leader Developer as required. | | |
-| 10 | | | __Mentor and support development activity of Solution Developers in keeping with this senior role within the team.__ | Examples: presentations to our team for STARS container cluster POC, mentoring team members and beyond within UNSW IT  |
+| 10 | | | Mentor and support development activity of Solution Developers in keeping with this senior role within the team. | Examples: presentations to our team for STARS container cluster POC, mentoring team members and beyond within UNSW IT  |
 | 11 | Provide effective customer service through responding to customer requests in a timely and efficient manner, and understanding and delivering on customer needs. | Provide effective customer service through responding to customer requests in a timely and efficient manner, and understanding and delivering on customer needs. | |
 | 12 | Cooperate with all health  and safety policies  and procedures of the university and take all reasonable care to ensure that your actions or omissions do not impact on the health and safety of yourself or others.| Cooperate with all health  and safety policies  and procedures of the university and take all reasonable care to ensure that your actions or omissions do not impact on the health and safety of yourself or others.  | Cooperate with all health and safety policies and procedures of the university and take all reasonable care to ensure that your actions or omissions do not impact on the health and safety of yourself or others.|
 | 13 | Align with and actively demonstrate the UNSW Values in Action: Our Behaviours and the UNSW Code of Conduct. | Align with and actively demonstrate the UNSW Values in Action: Our Behaviours and the UNSW Code of Conduct.  | Align with and actively demonstrate the UNSW Values in Action: Our Behaviours and the UNSW Code of Conduct. |
+
+- Line 2 - L6 description is non-sensical
+- Lines 4 & 5 should be combined
+
 
 ## Table 2 Skills and Experience
 
@@ -50,7 +45,6 @@ Table comparing Developer roles L6, L7, L8. The order of the items has been norm
 | 13 | Knowledge of health and safety responsibilities and commitment to attending relevant health and safety training.| Knowledge of health and safety responsibilities and commitment to attending relevant health and safety training| Knowledge of health and safety responsibilities and commitment to attending relevant health and safety training. |
 | 13 | An understanding of and commitment to UNSW’s aims, objectives and values in action, together with relevant policies and guidelines. | An understanding of and commitment to UNSW’s aims, objectives and values in action, together with relevant policies and guidelines. | An understanding of and commitment to UNSW’s aims, objectives and values in action, together with relevant policies and guidelines. |
 
-Line 1 - the experience require is not a progression.
-Line 4 - mininal differences, poor distiction
-Line 5 - terms such as advanced, good, are subjective, not objective, and thus may not be applied consistently
-Some accountability items
+- Line 1 - the experience require is not a progression.
+- Line 4 - mininal differences, poor distiction
+- Line 5 - terms such as advanced, good, are subjective, not objective, and thus may not be applied consistently
